@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Joaquín</h1>
 <h3 align="center">A passionate frontend developer from Argentina!</h3>
 
-- 🔭 My best project is [Wiken](https://play.google.com/store/apps/details?id=com.wikenapp.wiken)
+- 🔭 My best project is [Wiken](https://play.google.com/store/apps/details?id=com.wikenapp.wiken). A mobile app to adopt, find, rescue pets. Built with flutter
 
 - 🌱 I keep on learning **Mobile Development with Flutter**
 
