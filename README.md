@@ -1,7 +1,7 @@
 # 💻 Hi! I'm Joaquín:
-- 🌱 I keep on learning **Mobile Development with Flutter**
+- 🧑🏻‍💻 I am a SR **Frontend Flutter Developer** 
 - 🔎 I’m looking to collaborate on **Flutter Projects**<br>
-- 👨‍💻 All of my projects are available on [Github](https://github.com/JoakoV3)
+- 🌐 All of my projects are available on [Github](https://github.com/JoakoV3)
 - 📫 How to reach me **joaquinvarelaivan@gmail.com**
 
 
