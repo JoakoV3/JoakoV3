@@ -3,6 +3,7 @@
 - 🔎 I’m looking to collaborate on **Flutter Projects**<br>
 - 🌐 All of my projects are available on [Github](https://github.com/JoakoV3)
 - 📫 How to reach me **joaquinvarelaivan@gmail.com**
+- 📲 Web portfolio here: [joaquin-varela.vercel.app](https://joaquin-varela.vercel.app)
 
 
 ## 🌐 Socials:
